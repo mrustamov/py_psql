@@ -1,0 +1,3 @@
+1. Postgres with Python (http://www.postgresqltutorial.com/postgresql-python/)
+2. Python dependencies for Postgres (e.g. https://pynative.com/python-postgresql-tutorial/)
+3. Postgres Documentation (e.g. https://www.postgresql.org/docs/12/functions-info.html)
